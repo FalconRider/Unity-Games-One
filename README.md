@@ -1,5 +1,8 @@
 # Unity-Games-One
 My attempt to learn a few things using Unity Game Engine
+
+OOPS. STILL WORKIN OUT MIXING UNITY WITH GITHUB. 
+
 --------------------------------------
 SPACE Walk     Read ME
 --------------------------------------------------
